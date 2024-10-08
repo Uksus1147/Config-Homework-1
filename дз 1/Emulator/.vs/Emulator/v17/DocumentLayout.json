@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\\u0423\u043A\u0441\u0443\u0441147\\Documents\\GitHub\\Config-Homework-1\\\u0434\u0437 1\\Emulator\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CA0EF67B-C726-4853-AAAB-3BB7F3BDAF32}|Emulator\\Emulator.csproj|c:\\users\\\u0443\u043A\u0441\u0443\u0441147\\documents\\github\\config-homework-1\\\u0434\u0437 1\\emulator\\emulator\\config.ini||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{CA0EF67B-C726-4853-AAAB-3BB7F3BDAF32}|Emulator\\Emulator.csproj|solutionrelative:emulator\\config.ini||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2A6597-638D-4934-A91A-B8E39B750245}|VirtualSystem\\Emulator.Lib.csproj|C:\\Users\\\u0423\u043A\u0441\u0443\u0441147\\Documents\\GitHub\\Config-Homework-1\\\u0434\u0437 1\\Emulator\\virtualsystem\\virtualfilesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2A6597-638D-4934-A91A-B8E39B750245}|VirtualSystem\\Emulator.Lib.csproj|solutionrelative:virtualsystem\\virtualfilesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA0EF67B-C726-4853-AAAB-3BB7F3BDAF32}|Emulator\\Emulator.csproj|c:\\users\\\u0443\u043A\u0441\u0443\u0441147\\documents\\github\\config-homework-1\\\u0434\u0437 1\\emulator\\emulator\\emulator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CA0EF67B-C726-4853-AAAB-3BB7F3BDAF32}|Emulator\\Emulator.csproj|solutionrelative:emulator\\emulator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CA0EF67B-C726-4853-AAAB-3BB7F3BDAF32}|Emulator\\Emulator.csproj|c:\\users\\\u0443\u043A\u0441\u0443\u0441147\\documents\\github\\config-homework-1\\\u0434\u0437 1\\emulator\\emulator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA0EF67B-C726-4853-AAAB-3BB7F3BDAF32}|Emulator\\Emulator.csproj|solutionrelative:emulator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F10AE89F-8D9E-405B-A5C4-F82AB84FE3B8}|EmulatorTests\\EmulatorTests.csproj|C:\\Users\\\u0423\u043A\u0441\u0443\u0441147\\Documents\\GitHub\\Config-Homework-1\\\u0434\u0437 1\\Emulator\\emulatortests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F10AE89F-8D9E-405B-A5C4-F82AB84FE3B8}|EmulatorTests\\EmulatorTests.csproj|solutionrelative:emulatortests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD2A6597-638D-4934-A91A-B8E39B750245}|VirtualSystem\\Emulator.Lib.csproj|C:\\Users\\\u0423\u043A\u0441\u0443\u0441147\\Documents\\GitHub\\Config-Homework-1\\\u0434\u0437 1\\Emulator\\virtualsystem\\virtualfilesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD2A6597-638D-4934-A91A-B8E39B750245}|VirtualSystem\\Emulator.Lib.csproj|solutionrelative:virtualsystem\\virtualfilesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0423\u043A\u0441\u0443\u0441147\\Documents\\GitHub\\Config-Homework-1\\\u0434\u0437 1\\Emulator\\emulatortests\\obj\\debug\\net8.0\\emulatortests.globalusings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,31 +43,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "config.ini",
+              "DocumentMoniker": "C:\\Users\\\u0423\u043A\u0441\u0443\u0441147\\Documents\\GitHub\\Config-Homework-1\\\u0434\u0437 1\\Emulator\\Emulator\\config.ini",
+              "RelativeDocumentMoniker": "Emulator\\config.ini",
+              "ToolTip": "C:\\Users\\\u0423\u043A\u0441\u0443\u0441147\\Documents\\GitHub\\Config-Homework-1\\\u0434\u0437 1\\Emulator\\Emulator\\config.ini",
+              "RelativeToolTip": "Emulator\\config.ini",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002768|",
+              "WhenOpened": "2024-10-08T12:22:34.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Emulator",
+              "DocumentMoniker": "C:\\Users\\\u0423\u043A\u0441\u0443\u0441147\\Documents\\GitHub\\Config-Homework-1\\\u0434\u0437 1\\Emulator\\Emulator\\Emulator.csproj",
+              "RelativeDocumentMoniker": "Emulator\\Emulator.csproj",
+              "ToolTip": "C:\\Users\\\u0423\u043A\u0441\u0443\u0441147\\Documents\\GitHub\\Config-Homework-1\\\u0434\u0437 1\\Emulator\\Emulator\\Emulator.csproj",
+              "RelativeToolTip": "Emulator\\Emulator.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-08T12:21:59.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\\u0423\u043A\u0441\u0443\u0441147\\Documents\\GitHub\\Config-Homework-1\\\u0434\u0437 1\\Emulator\\Emulator\\Form1.cs",
               "RelativeDocumentMoniker": "Emulator\\Form1.cs",
               "ToolTip": "C:\\Users\\\u0423\u043A\u0441\u0443\u0441147\\Documents\\GitHub\\Config-Homework-1\\\u0434\u0437 1\\Emulator\\Emulator\\Form1.cs",
               "RelativeToolTip": "Emulator\\Form1.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAkwB4AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-08T11:49:52.602Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "VirtualFileSystem.cs",
               "DocumentMoniker": "C:\\Users\\\u0423\u043A\u0441\u0443\u0441147\\Documents\\GitHub\\Config-Homework-1\\\u0434\u0437 1\\Emulator\\VirtualSystem\\VirtualFileSystem.cs",
               "RelativeDocumentMoniker": "VirtualSystem\\VirtualFileSystem.cs",
               "ToolTip": "C:\\Users\\\u0423\u043A\u0441\u0443\u0441147\\Documents\\GitHub\\Config-Homework-1\\\u0434\u0437 1\\Emulator\\VirtualSystem\\VirtualFileSystem.cs",
               "RelativeToolTip": "VirtualSystem\\VirtualFileSystem.cs",
-              "ViewState": "AQIAAFMAAAAAAAAAAAAAwGAAAAAeAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T09:53:50.765Z"
+              "WhenOpened": "2024-10-05T09:53:50.765Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "EmulatorTests.GlobalUsings.g.cs",
               "DocumentMoniker": "C:\\Users\\\u0423\u043A\u0441\u0443\u0441147\\Documents\\GitHub\\Config-Homework-1\\\u0434\u0437 1\\Emulator\\EmulatorTests\\obj\\Debug\\net8.0\\EmulatorTests.GlobalUsings.g.cs",
               "RelativeDocumentMoniker": "EmulatorTests\\obj\\Debug\\net8.0\\EmulatorTests.GlobalUsings.g.cs",
@@ -71,18 +106,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "DocumentMoniker": "C:\\Users\\\u0423\u043A\u0441\u0443\u0441147\\Documents\\GitHub\\Config-Homework-1\\\u0434\u0437 1\\Emulator\\Emulator\\Form1.cs",
               "RelativeDocumentMoniker": "Emulator\\Form1.cs",
-              "ToolTip": "C:\\Users\\\u0423\u043A\u0441\u0443\u0441147\\Desktop\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\\u043A\u043E\u043D\u0444\u0438\u0433\u0443\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0443\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435\\\u0434\u0437 1\\Emulator\\Emulator\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Desktop\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\\u043A\u043E\u043D\u0444\u0438\u0433\u0443\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0443\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435\\\u0434\u0437 1\\Emulator\\Emulator\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "ToolTip": "C:\\Users\\\u0423\u043A\u0441\u0443\u0441147\\Documents\\GitHub\\Config-Homework-1\\\u0434\u0437 1\\Emulator\\Emulator\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "Emulator\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T09:21:17.794Z"
+              "WhenOpened": "2024-10-05T09:21:17.794Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\\u0423\u043A\u0441\u0443\u0441147\\Documents\\GitHub\\Config-Homework-1\\\u0434\u0437 1\\Emulator\\EmulatorTests\\UnitTest1.cs",
               "RelativeDocumentMoniker": "EmulatorTests\\UnitTest1.cs",

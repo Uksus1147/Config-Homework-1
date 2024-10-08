@@ -9,6 +9,16 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="config.ini" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="config.ini">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="ini-parser" Version="2.5.2" />
     <PackageReference Include="NUnit" Version="4.2.2" />
     <PackageReference Include="NUnit3TestAdapter" Version="4.6.0" />
@@ -16,6 +26,12 @@
 
   <ItemGroup>
     <ProjectReference Include="..\VirtualSystem\Emulator.Lib.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="VirualSystem.zip">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
 
 </Project>

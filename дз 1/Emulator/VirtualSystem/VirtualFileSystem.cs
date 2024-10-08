@@ -26,29 +26,7 @@ namespace Emulator
             archive = ZipFile.Open(zipFilePath, ZipArchiveMode.Update);
         }
 
-        //// Команда ls
-        //public string ListFiles()
-        //{
 
-        //    var output = new StringBuilder();
-        //    foreach (ZipArchiveEntry entry in archive.Entries)
-        //    {
-        //        string entryPath = entry.FullName.Trim('/');
-        //        string[] pathParts = entryPath.Split('/');
-        //        string last = pathParts.Last();
-        //        var a = pathParts[0..(pathParts.Length - 1)];
-        //        if (currentPath.SequenceEqual(a))
-        //        {
-        //            output.AppendLine(last);
-
-        //        }
-        //    }
-        //    if (output.Length == 0)
-        //    {
-        //        return "Directory not found";
-        //    }
-        //    return output.ToString();
-        //}
         public string ListFiles()
         {
             var output = new StringBuilder();
