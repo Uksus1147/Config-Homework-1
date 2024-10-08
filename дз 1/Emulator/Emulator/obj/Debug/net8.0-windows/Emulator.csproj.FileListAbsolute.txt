@@ -14,3 +14,32 @@ C:\Users\Уксус147\Desktop\уник\конфигурационное упр�
 C:\Users\Уксус147\Desktop\уник\конфигурационное управление\дз 1\Emulator\Emulator\obj\Debug\net8.0-windows\Emulator.pdb
 C:\Users\Уксус147\Desktop\уник\конфигурационное управление\дз 1\Emulator\Emulator\obj\Debug\net8.0-windows\Emulator.genruntimeconfig.cache
 C:\Users\Уксус147\Desktop\уник\конфигурационное управление\дз 1\Emulator\Emulator\obj\Debug\net8.0-windows\ref\Emulator.dll
+C:\Users\Уксус147\Desktop\уник\2 курс\конфигурационное управление\дз 1\Emulator\Emulator\bin\Debug\net8.0-windows\Emulator.exe
+C:\Users\Уксус147\Desktop\уник\2 курс\конфигурационное управление\дз 1\Emulator\Emulator\bin\Debug\net8.0-windows\Emulator.deps.json
+C:\Users\Уксус147\Desktop\уник\2 курс\конфигурационное управление\дз 1\Emulator\Emulator\bin\Debug\net8.0-windows\Emulator.runtimeconfig.json
+C:\Users\Уксус147\Desktop\уник\2 курс\конфигурационное управление\дз 1\Emulator\Emulator\bin\Debug\net8.0-windows\Emulator.dll
+C:\Users\Уксус147\Desktop\уник\2 курс\конфигурационное управление\дз 1\Emulator\Emulator\bin\Debug\net8.0-windows\Emulator.pdb
+C:\Users\Уксус147\Desktop\уник\2 курс\конфигурационное управление\дз 1\Emulator\Emulator\obj\Debug\net8.0-windows\Emulator.Form1.resources
+C:\Users\Уксус147\Desktop\уник\2 курс\конфигурационное управление\дз 1\Emulator\Emulator\obj\Debug\net8.0-windows\Emulator.csproj.GenerateResource.cache
+C:\Users\Уксус147\Desktop\уник\2 курс\конфигурационное управление\дз 1\Emulator\Emulator\obj\Debug\net8.0-windows\Emulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Уксус147\Desktop\уник\2 курс\конфигурационное управление\дз 1\Emulator\Emulator\obj\Debug\net8.0-windows\Emulator.AssemblyInfoInputs.cache
+C:\Users\Уксус147\Desktop\уник\2 курс\конфигурационное управление\дз 1\Emulator\Emulator\obj\Debug\net8.0-windows\Emulator.AssemblyInfo.cs
+C:\Users\Уксус147\Desktop\уник\2 курс\конфигурационное управление\дз 1\Emulator\Emulator\obj\Debug\net8.0-windows\Emulator.csproj.CoreCompileInputs.cache
+C:\Users\Уксус147\Desktop\уник\2 курс\конфигурационное управление\дз 1\Emulator\Emulator\obj\Debug\net8.0-windows\Emulator.dll
+C:\Users\Уксус147\Desktop\уник\2 курс\конфигурационное управление\дз 1\Emulator\Emulator\obj\Debug\net8.0-windows\refint\Emulator.dll
+C:\Users\Уксус147\Desktop\уник\2 курс\конфигурационное управление\дз 1\Emulator\Emulator\obj\Debug\net8.0-windows\Emulator.pdb
+C:\Users\Уксус147\Desktop\уник\2 курс\конфигурационное управление\дз 1\Emulator\Emulator\obj\Debug\net8.0-windows\Emulator.genruntimeconfig.cache
+C:\Users\Уксус147\Desktop\уник\2 курс\конфигурационное управление\дз 1\Emulator\Emulator\obj\Debug\net8.0-windows\ref\Emulator.dll
+C:\Users\Уксус147\Desktop\уник\2 курс\конфигурационное управление\дз 1\Emulator\Emulator\bin\Debug\net8.0-windows\INIFileParser.dll
+C:\Users\Уксус147\Desktop\уник\2 курс\конфигурационное управление\дз 1\Emulator\Emulator\obj\Debug\net8.0-windows\Emulator.csproj.AssemblyReference.cache
+C:\Users\Уксус147\Desktop\уник\2 курс\конфигурационное управление\дз 1\Emulator\Emulator\obj\Debug\net8.0-windows\Emulator.csproj.Up2Date
+C:\Users\Уксус147\Desktop\уник\2 курс\конфигурационное управление\дз 1\Emulator\Emulator\bin\Debug\net8.0-windows\NUnit3.TestAdapter.dll
+C:\Users\Уксус147\Desktop\уник\2 курс\конфигурационное управление\дз 1\Emulator\Emulator\bin\Debug\net8.0-windows\NUnit3.TestAdapter.pdb
+C:\Users\Уксус147\Desktop\уник\2 курс\конфигурационное управление\дз 1\Emulator\Emulator\bin\Debug\net8.0-windows\nunit.engine.dll
+C:\Users\Уксус147\Desktop\уник\2 курс\конфигурационное управление\дз 1\Emulator\Emulator\bin\Debug\net8.0-windows\nunit.engine.api.dll
+C:\Users\Уксус147\Desktop\уник\2 курс\конфигурационное управление\дз 1\Emulator\Emulator\bin\Debug\net8.0-windows\nunit.engine.core.dll
+C:\Users\Уксус147\Desktop\уник\2 курс\конфигурационное управление\дз 1\Emulator\Emulator\bin\Debug\net8.0-windows\testcentric.engine.metadata.dll
+C:\Users\Уксус147\Desktop\уник\2 курс\конфигурационное управление\дз 1\Emulator\Emulator\bin\Debug\net8.0-windows\nunit.framework.dll
+C:\Users\Уксус147\Desktop\уник\2 курс\конфигурационное управление\дз 1\Emulator\Emulator\bin\Debug\net8.0-windows\nunit.framework.legacy.dll
+C:\Users\Уксус147\Desktop\уник\2 курс\конфигурационное управление\дз 1\Emulator\Emulator\bin\Debug\net8.0-windows\Emulator.Lib.dll
+C:\Users\Уксус147\Desktop\уник\2 курс\конфигурационное управление\дз 1\Emulator\Emulator\bin\Debug\net8.0-windows\Emulator.Lib.pdb

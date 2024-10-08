@@ -1,18 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\u0423\u043A\u0441\u0443\u0441147\\Desktop\\\u0443\u043D\u0438\u043A\\\u043A\u043E\u043D\u0444\u0438\u0433\u0443\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0443\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435\\\u0434\u0437 1\\Emulator\\",
+  "WorkspaceRootPath": "C:\\Users\\\u0423\u043A\u0441\u0443\u0441147\\Desktop\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\\u043A\u043E\u043D\u0444\u0438\u0433\u0443\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0443\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435\\\u0434\u0437 1\\Emulator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CA0EF67B-C726-4853-AAAB-3BB7F3BDAF32}|Emulator\\Emulator.csproj|c:\\users\\\u0443\u043A\u0441\u0443\u0441147\\desktop\\\u0443\u043D\u0438\u043A\\\u043A\u043E\u043D\u0444\u0438\u0433\u0443\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0443\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435\\\u0434\u0437 1\\emulator\\emulator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA0EF67B-C726-4853-AAAB-3BB7F3BDAF32}|Emulator\\Emulator.csproj|c:\\users\\\u0443\u043A\u0441\u0443\u0441147\\desktop\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\\u043A\u043E\u043D\u0444\u0438\u0433\u0443\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0443\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435\\\u0434\u0437 1\\emulator\\emulator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA0EF67B-C726-4853-AAAB-3BB7F3BDAF32}|Emulator\\Emulator.csproj|solutionrelative:emulator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA0EF67B-C726-4853-AAAB-3BB7F3BDAF32}|Emulator\\Emulator.csproj|C:\\Users\\\u0423\u043A\u0441\u0443\u0441147\\Desktop\\\u0443\u043D\u0438\u043A\\\u043A\u043E\u043D\u0444\u0438\u0433\u0443\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0443\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435\\\u0434\u0437 1\\Emulator\\emulator\\virtualfilesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA0EF67B-C726-4853-AAAB-3BB7F3BDAF32}|Emulator\\Emulator.csproj|solutionrelative:emulator\\virtualfilesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CA0EF67B-C726-4853-AAAB-3BB7F3BDAF32}|Emulator\\Emulator.csproj|C:\\Users\\\u0423\u043A\u0441\u0443\u0441147\\Desktop\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\\u043A\u043E\u043D\u0444\u0438\u0433\u0443\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0443\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435\\\u0434\u0437 1\\Emulator\\emulator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA0EF67B-C726-4853-AAAB-3BB7F3BDAF32}|Emulator\\Emulator.csproj|solutionrelative:emulator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA0EF67B-C726-4853-AAAB-3BB7F3BDAF32}|Emulator\\Emulator.csproj|C:\\Users\\\u0423\u043A\u0441\u0443\u0441147\\Desktop\\\u0443\u043D\u0438\u043A\\\u043A\u043E\u043D\u0444\u0438\u0433\u0443\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0443\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435\\\u0434\u0437 1\\Emulator\\emulator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CA0EF67B-C726-4853-AAAB-3BB7F3BDAF32}|Emulator\\Emulator.csproj|solutionrelative:emulator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F10AE89F-8D9E-405B-A5C4-F82AB84FE3B8}|EmulatorTests\\EmulatorTests.csproj|c:\\users\\\u0443\u043A\u0441\u0443\u0441147\\desktop\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\\u043A\u043E\u043D\u0444\u0438\u0433\u0443\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0443\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435\\\u0434\u0437 1\\emulator\\emulatortests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10AE89F-8D9E-405B-A5C4-F82AB84FE3B8}|EmulatorTests\\EmulatorTests.csproj|solutionrelative:emulatortests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2A6597-638D-4934-A91A-B8E39B750245}|VirtualSystem\\Emulator.Lib.csproj|C:\\Users\\\u0423\u043A\u0441\u0443\u0441147\\Desktop\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\\u043A\u043E\u043D\u0444\u0438\u0433\u0443\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0443\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435\\\u0434\u0437 1\\Emulator\\virtualsystem\\virtualfilesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2A6597-638D-4934-A91A-B8E39B750245}|VirtualSystem\\Emulator.Lib.csproj|solutionrelative:virtualsystem\\virtualfilesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0423\u043A\u0441\u0443\u0441147\\Desktop\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\\u043A\u043E\u043D\u0444\u0438\u0433\u0443\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0443\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435\\\u0434\u0437 1\\Emulator\\emulatortests\\obj\\debug\\net8.0\\emulatortests.globalusings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:emulatortests\\obj\\debug\\net8.0\\emulatortests.globalusings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +30,70 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "VirtualFileSystem.cs",
-              "DocumentMoniker": "C:\\Users\\\u0423\u043A\u0441\u0443\u0441147\\Desktop\\\u0443\u043D\u0438\u043A\\\u043A\u043E\u043D\u0444\u0438\u0433\u0443\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0443\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435\\\u0434\u0437 1\\Emulator\\Emulator\\VirtualFileSystem.cs",
-              "RelativeDocumentMoniker": "Emulator\\VirtualFileSystem.cs",
-              "ToolTip": "C:\\Users\\\u0423\u043A\u0441\u0443\u0441147\\Desktop\\\u0443\u043D\u0438\u043A\\\u043A\u043E\u043D\u0444\u0438\u0433\u0443\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0443\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435\\\u0434\u0437 1\\Emulator\\Emulator\\VirtualFileSystem.cs",
-              "RelativeToolTip": "Emulator\\VirtualFileSystem.cs",
-              "ViewState": "AQIAAFMAAAAAAAAAAAAwwGAAAABZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T09:57:58.126Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\\u0423\u043A\u0441\u0443\u0441147\\Desktop\\\u0443\u043D\u0438\u043A\\\u043A\u043E\u043D\u0444\u0438\u0433\u0443\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0443\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435\\\u0434\u0437 1\\Emulator\\Emulator\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\\u0423\u043A\u0441\u0443\u0441147\\Desktop\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\\u043A\u043E\u043D\u0444\u0438\u0433\u0443\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0443\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435\\\u0434\u0437 1\\Emulator\\Emulator\\Form1.cs",
               "RelativeDocumentMoniker": "Emulator\\Form1.cs",
-              "ToolTip": "C:\\Users\\\u0423\u043A\u0441\u0443\u0441147\\Desktop\\\u0443\u043D\u0438\u043A\\\u043A\u043E\u043D\u0444\u0438\u0433\u0443\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0443\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435\\\u0434\u0437 1\\Emulator\\Emulator\\Form1.cs",
+              "ToolTip": "C:\\Users\\\u0423\u043A\u0441\u0443\u0441147\\Desktop\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\\u043A\u043E\u043D\u0444\u0438\u0433\u0443\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0443\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435\\\u0434\u0437 1\\Emulator\\Emulator\\Form1.cs",
               "RelativeToolTip": "Emulator\\Form1.cs",
-              "ViewState": "AQIAADoAAAAAAAAAAAAcwFcAAAA7AAAA",
+              "ViewState": "AQIAABkAAAAAAAAAAAAkwB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T09:51:43.811Z",
+              "WhenOpened": "2024-10-08T11:49:52.602Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "VirtualFileSystem.cs",
+              "DocumentMoniker": "C:\\Users\\\u0423\u043A\u0441\u0443\u0441147\\Desktop\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\\u043A\u043E\u043D\u0444\u0438\u0433\u0443\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0443\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435\\\u0434\u0437 1\\Emulator\\VirtualSystem\\VirtualFileSystem.cs",
+              "RelativeDocumentMoniker": "VirtualSystem\\VirtualFileSystem.cs",
+              "ToolTip": "C:\\Users\\\u0423\u043A\u0441\u0443\u0441147\\Desktop\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\\u043A\u043E\u043D\u0444\u0438\u0433\u0443\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0443\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435\\\u0434\u0437 1\\Emulator\\VirtualSystem\\VirtualFileSystem.cs",
+              "RelativeToolTip": "VirtualSystem\\VirtualFileSystem.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAAwGAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T09:53:50.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmulatorTests.GlobalUsings.g.cs",
+              "DocumentMoniker": "C:\\Users\\\u0423\u043A\u0441\u0443\u0441147\\Desktop\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\\u043A\u043E\u043D\u0444\u0438\u0433\u0443\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0443\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435\\\u0434\u0437 1\\Emulator\\EmulatorTests\\obj\\Debug\\net8.0\\EmulatorTests.GlobalUsings.g.cs",
+              "RelativeDocumentMoniker": "EmulatorTests\\obj\\Debug\\net8.0\\EmulatorTests.GlobalUsings.g.cs",
+              "ToolTip": "C:\\Users\\\u0423\u043A\u0441\u0443\u0441147\\Desktop\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\\u043A\u043E\u043D\u0444\u0438\u0433\u0443\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0443\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435\\\u0434\u0437 1\\Emulator\\EmulatorTests\\obj\\Debug\\net8.0\\EmulatorTests.GlobalUsings.g.cs",
+              "RelativeToolTip": "EmulatorTests\\obj\\Debug\\net8.0\\EmulatorTests.GlobalUsings.g.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T09:45:21.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "DocumentMoniker": "C:\\Users\\\u0423\u043A\u0441\u0443\u0441147\\Desktop\\\u0443\u043D\u0438\u043A\\\u043A\u043E\u043D\u0444\u0438\u0433\u0443\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0443\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435\\\u0434\u0437 1\\Emulator\\Emulator\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\\u0423\u043A\u0441\u0443\u0441147\\Desktop\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\\u043A\u043E\u043D\u0444\u0438\u0433\u0443\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0443\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435\\\u0434\u0437 1\\Emulator\\Emulator\\Form1.cs",
               "RelativeDocumentMoniker": "Emulator\\Form1.cs",
-              "ToolTip": "C:\\Users\\\u0423\u043A\u0441\u0443\u0441147\\Desktop\\\u0443\u043D\u0438\u043A\\\u043A\u043E\u043D\u0444\u0438\u0433\u0443\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0443\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435\\\u0434\u0437 1\\Emulator\\Emulator\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "ToolTip": "C:\\Users\\\u0423\u043A\u0441\u0443\u0441147\\Desktop\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\\u043A\u043E\u043D\u0444\u0438\u0433\u0443\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0443\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435\\\u0434\u0437 1\\Emulator\\Emulator\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "RelativeToolTip": "Emulator\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T09:42:40.16Z"
+              "WhenOpened": "2024-10-05T09:21:17.794Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\\u0423\u043A\u0441\u0443\u0441147\\Desktop\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\\u043A\u043E\u043D\u0444\u0438\u0433\u0443\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0443\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435\\\u0434\u0437 1\\Emulator\\EmulatorTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "EmulatorTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\\u0423\u043A\u0441\u0443\u0441147\\Desktop\\\u0443\u043D\u0438\u043A\\2 \u043A\u0443\u0440\u0441\\\u043A\u043E\u043D\u0444\u0438\u0433\u0443\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u043E\u0435 \u0443\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435\\\u0434\u0437 1\\Emulator\\EmulatorTests\\UnitTest1.cs",
+              "RelativeToolTip": "EmulatorTests\\UnitTest1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAEMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T12:55:02.773Z",
+              "EditorCaption": ""
             }
           ]
         }

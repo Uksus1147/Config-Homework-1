@@ -30,7 +30,6 @@
         {
             textBoxCommand = new TextBox();
             richTextBoxOutput = new RichTextBox();
-            buttonLoadZip = new Button();
             SuspendLayout();
             // 
             // textBoxCommand
@@ -48,27 +47,16 @@
             richTextBoxOutput.Dock = DockStyle.Top;
             richTextBoxOutput.Location = new Point(0, 0);
             richTextBoxOutput.Name = "richTextBoxOutput";
-            richTextBoxOutput.Size = new Size(800, 348);
+            richTextBoxOutput.Size = new Size(800, 403);
             richTextBoxOutput.TabIndex = 1;
             richTextBoxOutput.Text = "";
             richTextBoxOutput.TextChanged += richTextBoxOutput_TextChanged;
-            // 
-            // buttonLoadZip
-            // 
-            buttonLoadZip.Location = new Point(0, 354);
-            buttonLoadZip.Name = "buttonLoadZip";
-            buttonLoadZip.Size = new Size(107, 67);
-            buttonLoadZip.TabIndex = 3;
-            buttonLoadZip.Text = "Load to zip file";
-            buttonLoadZip.UseVisualStyleBackColor = true;
-            buttonLoadZip.Click += buttonLoadZip_Click;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
-            Controls.Add(buttonLoadZip);
             Controls.Add(richTextBoxOutput);
             Controls.Add(textBoxCommand);
             Name = "Form1";
@@ -82,6 +70,5 @@
 
         private TextBox textBoxCommand;
         private RichTextBox richTextBoxOutput;
-        private Button buttonLoadZip;
     }
 }
